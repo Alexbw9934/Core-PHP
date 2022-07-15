@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href=".log_style.xsl"?>
+<!--PhProtector logs-->
+<logs>
+ <log>
+  <date>22-08-2010 17:02:56</date>
+  <ip>192.168.1.101</ip>
+  <hostname>Umar-PC</hostname>
+  <browser>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Tablet PC 2.0; InfoPath.2; Media Center PC 6.0; .NET CLR 1.1.4322; .NET4.0C)</browser>
+  <request>/game/admin/banners.php?msg=del     =&gt;$_POST[name]=asf, $_POST[content]=&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;../../useruploads/images/add.jpg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;322&amp;quot; height=&amp;quot;256&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;, $_POST[page]=home_page, $_POST[bannerdate]=always, $_POST[from_day]=22, $_POST[from_month]=8, $_POST[from_year]=2010, $_POST[to_day]=22, $_POST[to_month]=9, $_POST[to_year]=2010, $_POST[bannerstatus]=1, $_POST[location]=right, $_POST[add]=Submit, </request>
+  <score>1</score>
+  <referer>http://umar-pc/game/admin/banners.php?msg=del</referer>
+ </log>
+</logs>

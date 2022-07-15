@@ -1,0 +1,11 @@
+.btn-edit{
+	margin: 5px;
+	color: #048b04;
+}
+.btn-delete{
+	margin: 5px;
+	color: #ff0000;
+}
+.hide{
+	display: none;
+}
